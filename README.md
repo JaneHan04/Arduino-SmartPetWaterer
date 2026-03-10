@@ -60,8 +60,8 @@ SmartPetWaterer/
 │   └── MyProject_WaterPump/
 │       ├── WaterPump.h
 │       └── WaterPump.cpp
-└── tests/                        # 可选：独立测试程序
-    └── water_test/water_test.ino
+└── test-waterpump/                        # 可选：独立测试程序
+    └── water/water_test.ino
 ```
 
 
