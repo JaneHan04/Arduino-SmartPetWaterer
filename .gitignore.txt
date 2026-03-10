@@ -1,0 +1,17 @@
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.eep
+*.log
+*.lst
+*.sym
+*.tmp
+*.bak
+*~
+build/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
